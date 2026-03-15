@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Color-Lie (Stroop Test) app (hereby referred to as "Application") for mobile devices that was created by wing-tree (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the COLOR LIE app (hereby referred to as "Application") for mobile devices that was created by SEONGJU KIM (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -60,7 +60,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-02-25
+This privacy policy is effective as of 2026-03-15
 
 **Your Consent**
 
